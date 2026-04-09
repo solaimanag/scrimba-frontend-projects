@@ -1,0 +1,68 @@
+/* Base Reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Layout Container using Flexbox for perfect centering */
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+/* Logo Styling */
+.logo {
+    width: 30%;
+    min-width: 272px;
+    margin-bottom: 25px;
+}
+
+/* Search Input Styling */
+.search-input {
+    box-sizing: border-box;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    height: 44px;
+    width: 90%;
+    max-width: 564px;
+    padding: 0 20px;
+    font-size: 16px;
+    margin-bottom: 29px;
+    outline: none;
+    transition: box-shadow 0.2s; /* Smooth transition for focus */
+}
+
+/* Hover/Focus effect for the search bar */
+.search-input:hover,
+.search-input:focus {
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+    border-color: rgba(223, 225, 229, 0);
+}
+
+/* Grouping buttons nicely */
+.buttons-container {
+    display: flex;
+    gap: 12px; /* Spacing between buttons */
+}
+
+/* General Button Styling */
+.btn {
+    padding: 0 16px;
+    font-size: 14px;
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    cursor: pointer;
+}
+
+/* Button Hover State */
+.btn:hover {
+    border-color: #dadce0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    color: #202124;
+}
