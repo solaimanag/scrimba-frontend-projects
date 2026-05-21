@@ -1,20 +1,5 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
-## About Scrimba
+SKYNTS EARTH
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+<img width="1199" height="921" alt="Capture d&#39;écran 2026-04-01 211043" src="https://github.com/user-attachments/assets/41012d85-9607-43f1-a71f-4622dc1c4cb6" />
+<img width="1281" height="918" alt="Capture d&#39;écran 2026-04-01 211049" src="https://github.com/user-attachments/assets/a9336478-bf6b-4d43-b7ea-77c994105ee1" />
+<img width="1261" height="922" alt="Capture d&#39;écran 2026-04-01 211054" src="https://github.com/user-attachments/assets/8f3598e9-9cef-4c1c-bcb9-64e4568cb9f4" />
