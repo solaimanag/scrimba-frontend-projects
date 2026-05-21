@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06i3gi",
+  "description": "https://scrimba.com/learn-accessible-web-design-c031/~05e6/s0e2slip09/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

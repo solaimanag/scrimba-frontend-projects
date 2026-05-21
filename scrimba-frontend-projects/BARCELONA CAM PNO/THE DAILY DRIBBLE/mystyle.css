@@ -1,0 +1,31 @@
+h1{
+    background-color: bisque;
+    width: fit-content;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    width: 450px;
+    font-style: italic;
+}
+input{
+    margin-top: 12px;
+ width: 180px;
+ height: 30px;
+ text-align: center;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    width: 180px;
+    margin-top:10px ;
+    height: 30px;
+}
+.link{
+    width:fit-content;
+    
+}
