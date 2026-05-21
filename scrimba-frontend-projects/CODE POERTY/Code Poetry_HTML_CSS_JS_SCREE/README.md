@@ -1,19 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+CODE POERTY
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+<img width="1878" height="915" alt="Capture d&#39;écran 2026-04-02 210136" src="https://github.com/user-attachments/assets/9dc08cc2-44a1-48ac-acfd-4186fc182c8f" />
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+<img width="1887" height="917" alt="Capture d&#39;écran 2026-04-02 210141" src="https://github.com/user-attachments/assets/3ad08d9b-8cc2-44c1-9555-03bde07a3470" />
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
